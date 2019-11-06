@@ -4,20 +4,20 @@
 /** Ionic CSS Variables **/
 :root {
   /** primary **/
-  --ion-color-primary: #3880ff;
-  --ion-color-primary-rgb: 56, 128, 255;
-  --ion-color-primary-contrast: #ffffff;
-  --ion-color-primary-contrast-rgb: 255, 255, 255;
-  --ion-color-primary-shade: #3171e0;
-  --ion-color-primary-tint: #4c8dff;
+  --ion-color-primary: #feb81c;
+  --ion-color-primary-rgb: 254, 184, 28;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0, 0, 0;
+  --ion-color-primary-shade: #e0a219;
+  --ion-color-primary-tint: #febf33;
 
   /** secondary **/
-  --ion-color-secondary: #0cd1e8;
-  --ion-color-secondary-rgb: 12, 209, 232;
+  --ion-color-secondary: #ff0000;
+  --ion-color-secondary-rgb: 255, 0, 0;
   --ion-color-secondary-contrast: #ffffff;
   --ion-color-secondary-contrast-rgb: 255, 255, 255;
-  --ion-color-secondary-shade: #0bb8cc;
-  --ion-color-secondary-tint: #24d6ea;
+  --ion-color-secondary-shade: #e00000;
+  --ion-color-secondary-tint: #ff1a1a;
 
   /** tertiary **/
   --ion-color-tertiary: #7044ff;
@@ -74,4 +74,12 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /** Tarantino Yellow **/
+  --ion-color-tarantino: #feb81c;
+  --ion-color-tarantino-rgb: 254, 184, 28;
+  --ion-color-tarantino-contrast: #000000;
+  --ion-color-tarantino-contrast-rgb: 0, 0, 0;
+  --ion-color-tarantino-shade: #e4a519;
+  --ion-color-tarantino-tint: #febf32;
 }

@@ -1,5 +1,7 @@
 {
   "name": "QTMD",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
