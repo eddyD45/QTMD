@@ -1,90 +1,26 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start"> </ion-buttons>
+    <ion-title>Movie List</ion-title>
+  </ion-toolbar>
+</ion-header>
 <ion-content color="warning">
   <ion-grid>
     <ion-row>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
-      <ion-col size="6" size-sm>
-        <ion-card>
-          <img
-            src="../../assets/images/reservoir_dogs.jpg"
-            alt="Reservoir Dogs"
-          />
-        </ion-card>
-        <div class="movie-title">
-          <p>Reservoir Dogs</p>
-          <p class="subtitle">(1992)</p>
-        </div>
-      </ion-col>
+      <ng-container *ngIf="movies$ | async as movies">
+        <ion-col size="6" size-sm *ngFor="let movie of movies">
+          <ion-card (click)="onClickVisitMoviePage(movie.Url)">
+            <img
+              src="../../assets/images/{{movie.Url}}.jpg"
+              [alt]="movie.Title"
+            />
+            <div class="movie-title">
+              <p>{{movie.Title}}</p>
+              <p class="subtitle">({{movie.Year}})</p>
+            </div>
+          </ion-card>
+        </ion-col>
+      </ng-container>
     </ion-row>
   </ion-grid>
 </ion-content>

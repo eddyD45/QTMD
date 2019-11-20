@@ -1,0 +1,222 @@
+{
+  "Movies": [
+    {
+      "Title": "Once Upon A Time In Hollywood",
+      "Url": "once_upon_a_time_in_hollywood",
+      "Year": 2019,
+      "ReleaseDate": "July 26, 2019",
+      "Runtime": "161 min",
+      "Genre": "Comedy, Drama",
+      "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",
+      "Plot": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ]
+    },
+    {
+      "Title": "The Hateful Eight",
+      "Url": "the_hateful_eight",
+      "Year": "2015",
+      "Rated": "R",
+      "Released": "December 30, 2015",
+      "Runtime": "168 min",
+      "Genre": "Crime, Drama, Mystery, Thriller, Western",
+      "Actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",
+      "Plot": "Some time after the Civil War, a stagecoach hurtles through the wintry Wyoming landscape. Bounty hunter John Ruth and his fugitive captive Daisy Domergue race towards the town of Red Rock, where Ruth will bring Daisy to justice. Along the road, they encounter Major Marquis Warren (an infamous bounty hunter) and Chris Mannix (a man who claims to be Red Rock's new sheriff). Lost in a blizzard, the bunch seeks refuge at Minnie's Haberdashery. When they arrive they are greeted by unfamiliar faces: Bob, who claims to be taking care of the place while Minnie is gone; Oswaldo Mobray, the hangman of Red Rock; Joe Gage, a cow puncher; and confederate general Sanford Smithers. As the storm overtakes the mountainside, the eight travelers come to learn that they might not make it to Red Rock after all...",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ]
+    },
+    {
+      "Title": "Django Unchained",
+      "Url": "django_unchained",
+      "Year": "2012",
+      "Rated": "R",
+      "Released": "December 25, 2012",
+      "Runtime": "165 min",
+      "Genre": "Drama, Western",
+      "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+      "Plot": "A German dentist buys the freedom of a slave and trains him with the intent to make him his deputy bounty hunter. Instead, he is led to the site of the slave's wife who belongs to a ruthless plantation owner.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ]
+    },
+    {
+      "Title": "Inglourious Basterds",
+      "Url": "inglorious_basterds",
+      "Year": "2009",
+      "Released": "August 21, 2009",
+      "Runtime": "153 min",
+      "Genre": "Adventure, Drama, War",
+      "Actors": "Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth",
+      "Plot": "In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the \"Basterds\", a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    {
+      "Title": "Kill Bill: Vol. 2",
+      "Url": "kill_bill_vol_2",
+      "Year": "2004",
+      "Released": "April 16, 2004",
+      "Runtime": "137 min",
+      "Genre": "Action, Crime, Thriller",
+      "Actors": "Uma Thurman, Vivica A. Fox, Ambrosia Kelley, Michael Parks, James Parks",
+      "Plot": "The murderous Bride is back and she is still continuing her vengeance quest against her ex-boss, Bill, and taking aim at Bill's younger brother Budd and Elle Driver, the only survivors from the squad of assassins who betrayed her four years earlier. It's all leading up to the ultimate confrontation with Bill, the Bride's former master and the man who ordered her execution!",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ]
+    },
+    {
+      "Title": "Kill Bill: Vol. 1",
+      "Url": "kill_bill_vol_1",
+      "Year": "2003",
+      "Released": "October 10, 2003",
+      "Runtime": "111 min",
+      "Genre": "Action, Crime, Thriller",
+      "Actors": "Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah",
+      "Plot": "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    {
+      "Title": "Jackie Brown",
+      "Url": "jackie_brown",
+      "Year": "1997",
+      "Released": "December 25, 1997",
+      "Runtime": "154 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Actors": "Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda",
+      "Plot": "The middle-aged stewardess Jackie Brown smuggles money from Mexico to Los Angeles for the arms dealer Ordell Robbie. When she gets caught by the agents Ray Nicolet and Mark Dargus with ten thousand dollars and cocaine in her purse, they propose a deal to her to help them to arrest Ordell in exchange of her freedom. Meanwhile Ordell asks the 56-year-old Max Cherry, who runs a bail bond business, to release Jackie Brown with the intention of eliminating her. Jackie suspects of Ordell's intention and plots a complicated confidence game with Max to steal half a million dollars from Ordell.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ]
+    },
+    {
+      "Title": "Pulp Fiction",
+      "Url": "pulp_fiction",
+      "Year": "1994",
+      "Released": "October 14, 1994",
+      "Runtime": "154 min",
+      "Genre": "Crime, Drama",
+      "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+      "Plot": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ]
+    },
+    {
+      "Title": "Reservoir Dogs",
+      "Url": "reservoir_dogs",
+      "Year": "1992",
+      "Released": "September 2, 1992",
+      "Runtime": "99 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "Plot": "Six criminals, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the premeditated rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop.",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/sections/movie-list"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Movie Information</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content color="warning">
+  <div *ngIf="movie$ | async as movie" style="color:black;">
+    {{ movie | json }}
+  </div>
+</ion-content>

@@ -1,12 +1,29 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { MovieService } from '../services/movie/movie.service';
+import { Observable } from 'rxjs';
+import { MovieModel } from '../models/movie.model';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'app-tab1',
   templateUrl: 'tab1.page.html',
-  styleUrls: ['tab1.page.scss']
+  styleUrls: ['tab1.page.scss'],
 })
-export class Tab1Page {
+export class Tab1Page implements OnInit {
+  public movies$: Observable<Array<MovieModel>>;
+  constructor(
+    private movieService: MovieService,
+    private router: Router,
+    private activatedRoute: ActivatedRoute
+  ) {}
 
-  constructor() {}
+  ngOnInit(): void {
+    this.movies$ = this.movieService.getMovieInfo();
+  }
 
+  public onClickVisitMoviePage(url: string): void {
+    this.router
+      .navigate(['/sections/movie-list/movie', url])
+      .catch(error => console.log(error));
+  }
 }
