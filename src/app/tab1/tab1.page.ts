@@ -3,6 +3,7 @@ import { MovieService } from '../services/movie/movie.service';
 import { Observable } from 'rxjs';
 import { MovieModel } from '../models/movie.model';
 import { ActivatedRoute, Router } from '@angular/router';
+import { tap } from 'rxjs/operators';
 
 @Component({
   selector: 'app-tab1',
@@ -18,7 +19,9 @@ export class Tab1Page implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    this.movies$ = this.movieService.getMovieInfo();
+    this.movies$ = this.movieService
+      .getMovieInfo()
+      .pipe(tap(val => console.log(val)));
   }
 
   public onClickVisitMoviePage(url: string): void {
