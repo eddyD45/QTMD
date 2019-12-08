@@ -3,6 +3,7 @@
     {
       "Title": "Once Upon A Time In Hollywood",
       "Url": "once_upon_a_time_in_hollywood",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/qePl3OVYYgk",
       "Year": 2019,
       "ReleaseDate": "July 26, 2019",
       "Runtime": "161 min",
@@ -27,6 +28,7 @@
     {
       "Title": "The Hateful Eight",
       "Url": "the_hateful_eight",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PLxSwzWHIyoVEHmxruiWA8NYZiKBwKR24v",
       "Year": "2015",
       "Rated": "R",
       "Released": "December 30, 2015",
@@ -52,6 +54,7 @@
     {
       "Title": "Django Unchained",
       "Url": "django_unchained",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PLn9kZxo8qamaBjn1pon3swlZzTpxjc1Op",
       "Year": "2012",
       "Rated": "R",
       "Released": "December 25, 2012",
@@ -77,6 +80,7 @@
     {
       "Title": "Inglourious Basterds",
       "Url": "inglorious_basterds",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PLZbXA4lyCtqpVRuzaL7Xzeioptfqd_V74",
       "Year": "2009",
       "Released": "August 21, 2009",
       "Runtime": "153 min",
@@ -101,6 +105,7 @@
     {
       "Title": "Kill Bill: Vol. 2",
       "Url": "kill_bill_vol_2",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PL027A739B6F7F2B67",
       "Year": "2004",
       "Released": "April 16, 2004",
       "Runtime": "137 min",
@@ -125,6 +130,7 @@
     {
       "Title": "Kill Bill: Vol. 1",
       "Url": "kill_bill_vol_1",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PL9D10D8B604D6B7EC",
       "Year": "2003",
       "Released": "October 10, 2003",
       "Runtime": "111 min",
@@ -149,6 +155,7 @@
     {
       "Title": "Jackie Brown",
       "Url": "jackie_brown",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PL485ECBFCC8701F3A",
       "Year": "1997",
       "Released": "December 25, 1997",
       "Runtime": "154 min",
@@ -173,6 +180,7 @@
     {
       "Title": "Pulp Fiction",
       "Url": "pulp_fiction",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PLA1EC9692E5B92C14",
       "Year": "1994",
       "Released": "October 14, 1994",
       "Runtime": "154 min",
@@ -531,6 +539,7 @@
     {
       "Title": "Reservoir Dogs",
       "Url": "reservoir_dogs",
+      "YouTubePlaylistUrl": "https://www.youtube-nocookie.com/embed/videoseries?list=PLZbXA4lyCtqoccyscDFUrLn56Rsts4Qgr",
       "Year": "1992",
       "Released": "September 2, 1992",
       "Runtime": "99 min",
