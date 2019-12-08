@@ -177,7 +177,63 @@
       "Released": "October 14, 1994",
       "Runtime": "154 min",
       "Genre": "Crime, Drama",
-      "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "John Travolta",
+          "ImageUrl": "john_travolta",
+          "Role": "Vincent Vega"
+        },
+        {
+          "Id": 1,
+          "Actor": "Samuel L. Jackson",
+          "ImageUrl": "samuel_jackson",
+          "Role": "Jules Winnfield"
+        },
+        {
+          "Id": 2,
+          "Actor": "Bruce Willis",
+          "ImageUrl": "bruce_willis",
+          "Role": "Butch Coolidge"
+        },
+        {
+          "Id": 3,
+          "Actor": "Ving Rhames",
+          "ImageUrl": "ving_rhames",
+          "Role": "Marsellus Wallace"
+        },
+        {
+          "Id": 4,
+          "Actor": "Christopher Walken",
+          "ImageUrl": "christopher_walken",
+          "Role": "Captain Koons"
+        },
+        {
+          "Id": 5,
+          "Actor": "Quentin Tarantino",
+          "ImageUrl": "quentin_tarantino",
+          "Role": "Jimmie"
+        },
+        {
+          "Id": 6,
+          "Actor": "Uma Thurman",
+          "ImageUrl": "uma_thurman",
+          "Role": "Mia Wallace"
+        },
+        {
+          "Id": 7,
+          "Actor": "Harvey Keitel",
+          "ImageUrl": "harvey_keitel",
+          "Role": "The Wolf"
+        },
+        {
+          "Id": 7,
+          "Actor": "Maria de Medeiros",
+          "ImageUrl": "maria_de_medeiros",
+          "Role": "Fabienne"
+        }
+      ],
       "Plot": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
       "Ratings": [
         {
@@ -192,6 +248,284 @@
           "Source": "Metacritic",
           "Value": "94/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Mia Wallace",
+          "ImageUrl": "mia_wallace",
+          "Quote": "That's when you know you've found somebody special. When you can just shut the fuck up for a minute and comfortably enjoy the silence.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mia Wallace",
+          "ImageUrl": "mia_wallace",
+          "Quote": "Three tomatoes are walking down the street- a poppa tomato, a momma tomato, and a little baby tomato. Baby tomato starts lagging behind. Poppa tomato gets angry, goes over to the baby tomato, and smooshes him... and says, Catch up.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mia Wallace",
+          "ImageUrl": "mia_wallace",
+          "Quote": "I do believe Marsellus Wallace, my husband, your boss, told you to take ME out and do WHATEVER I WANTED. Now I wanna dance, I wanna win. I want that trophy, so dance good.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mia Wallace",
+          "ImageUrl": "mia_wallace",
+          "Quote": "I said God Damn! God Damn...",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "You, flock of seagulls, you know why we're here? Why don't you tell my man Vincent where you got the shit hid at?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "I'm sorry, did I break your concentration? I didn't mean to do that. Please, continue, you were saying something about best intentions. What's the matter? Oh, you were finished! Well, allow me to retort. What does Marsellus Wallace look like?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "\"What\" ain't no country I've ever heard of. They speak English in What?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "English, motherfucker, do you speak it?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Say 'what' again. Say 'what' again, I dare you, I double dare you motherfucker, say what one more Goddamn time!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Does he look like a bitch?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Then why you tryin' to fuck him like a bitch, Brett?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "But Marcellus Wallace don't like to be fucked by anybody except Mrs. Wallace.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "If my answers frighten you then you should cease asking scary questions.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "There's a passage I got memorized. Ezekiel 25:17. \"The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy My brothers. And you will know I am the Lord when I lay My vengeance upon you.\"",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "See, now I'm thinking: maybe it means you're the evil man. And I'm the righteous man. And Mr. 9mm here... he's the shepherd protecting my righteous ass in the valley of darkness. Or it could mean you're the righteous man and I'm the shepherd and it's the world that's evil and selfish. And I'd like that. But that shit ain't the truth. The truth is you're the weak. And I'm the tyranny of evil men. But I'm tryin', Ringo. I'm tryin' real hard to be the shepherd.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Hey, sewer rat may taste like pumpkin pie, but I'd never know 'cause I wouldn't eat the filthy motherfucker. Pigs sleep and root in shit. That's a filthy animal. I ain't eat nothin' that ain't got sense enough to disregard its own feces.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "I used the same fuckin' soap you did and when I got finished, the towel didn't look like no goddamn Maxi-Pad!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Well, I'm a mushroom-cloud-layin' motherfucker, motherfucker! Every time my fingers touch brain, I'm Superfly T.N.T., I'm the Guns of the Navarone! IN FACT, WHAT THE FUCK AM I DOIN' IN THE BACK? YOU'RE THE MOTHERFUCKER WHO SHOULD BE ON BRAIN DETAIL! We're fuckin' switchin'!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "It's the one that says Bad Motherfucker.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Well believe it now, motherfucker! We gotta get this car off the road! You know cops tend to notice shit like you're driving a car drenched in fucking blood.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Bitch, be cool!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Hamburgers! The cornerstone of any nutritious breakfast.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Mmm-mmmm. That is a tasty burger.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "Don't do that! Don't you fucking do that! Don't blow this shit off! What just happened was a fucking miracle!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jules Winnfield",
+          "ImageUrl": "jules_winnfield",
+          "Quote": "I hate to shatter your ego, but this is not the first time I've had a gun pointed at me.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "They call it a Royale with cheese.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "Now, if you'll excuse me, I'm going to go home and have a heart attack.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "Oh man, I shot Marvin in the face.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "We should have fuckin' shotguns.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "I-I gotta stab her three times?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "Do you wanna continue this theological discussion in the car, or at the jailhouse with the cops?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vincent Vega",
+          "ImageUrl": "vincent_vega",
+          "Quote": "Why the fuck didn't you tell us somebody was in the bathroom? Slipped your mind? Did you forget that somebody was in there with a goddamn hand cannon?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Butch Coolidge",
+          "ImageUrl": "butch_coolidge",
+          "Quote": "Zed's dead, baby. Zed's dead.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Butch Coolidge",
+          "ImageUrl": "butch_coolidge",
+          "Quote": "I'm American, honey. Our names don't mean shit.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Wolf",
+          "ImageUrl": "the_wolf",
+          "Quote": "Well, let's not start sucking each other's dicks quite yet.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Wolf",
+          "ImageUrl": "the_wolf",
+          "Quote": "Get it straight buster - I'm not here to say please, I'm here to tell you what to do and if self-preservation is an instinct you possess you'd better fucking do it and do it quick. I'm here to help - if my help's not appreciated then lotsa luck, gentlemen.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Wolf",
+          "ImageUrl": "the_wolf",
+          "Quote": "Just because you are a character doesn't mean that you have character.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Wolf",
+          "ImageUrl": "the_wolf",
+          "Quote": "Well, now I'm sure you've all been to county.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Wolf",
+          "ImageUrl": "the_wolf",
+          "Quote": "I'm Winston Wolfe. I solve problems.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Marsellus Wallace",
+          "ImageUrl": "marsellus_wallace",
+          "Quote": "The night of the fight, you may feel a slight sting. That's pride fucking with you. Fuck pride. Pride only hurts, it never helps.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marsellus Wallace",
+          "ImageUrl": "marsellus_wallace",
+          "Quote": "Yeah, we cool. Two things. Don't tell nobody about this. This shit is between me, you, and Mr. Soon-To-Be-Living-The-Rest-of-His-Short-Ass-Life-In-Agonizing-Pain Rapist here. It ain't nobody else's business. Two: you leave town tonight, right now. And when you're gone, you stay gone, or you be gone. You lost all your L.A. privileges. Deal?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marsellus Wallace",
+          "ImageUrl": "marsellus_wallace",
+          "Quote": "You see, this profession is filled to the brim with unrealistic motherfuckers. Motherfuckers who thought their ass would age like wine. If you mean it turns to vinegar, it does. If you mean it gets better with age, it don't.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jimmie",
+          "ImageUrl": "jimmie",
+          "Quote": "I don't need you to tell me how fucking good my coffee is, okay? I'm the one who buys it. I know how good it is. When Bonnie goes shopping she buys SHIT. I buy the gourmet expensive stuff because when I drink it I want to taste it.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jimmie",
+          "ImageUrl": "jimmie",
+          "Quote": "Don’t fucking Jimmie me, Jules!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Captain Koons",
+          "ImageUrl": "captain_koons",
+          "Quote": "The way your dad looked at it, this watch was your birthright. He'd be damned if any slopes gonna put their greasy yellow hands on his boy's birthright, so he hid it, in the one place he knew he could hide something: his ass. Five long years, he wore this watch up his ass. Then when he died of dysentery, he gave me the watch. I hid this uncomfortable piece of metal up my ass for two years. Then, after seven years, I was sent home to my family. And now, little man, I give the watch to you.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Fabienne",
+          "ImageUrl": "fabienne",
+          "Quote": "Ah, I like that. I like tulip. Tulip is much better than mongoloid.",
+          "IsProfanity": true
+        }
       ]
     },
     {
@@ -201,7 +535,56 @@
       "Released": "September 2, 1992",
       "Runtime": "99 min",
       "Genre": "Crime, Drama, Thriller",
-      "Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Harvey Keitel",
+          "ImageUrl": "harvey_keitel",
+          "Role": "Mr. White / Larry"
+        },
+        {
+          "Id": 1,
+          "Actor": "Tim Roth",
+          "ImageUrl": "tim_roth",
+          "Role": "Mr. Orange / Freddy"
+        },
+        {
+          "Id": 2,
+          "Actor": "Michael Madsen",
+          "ImageUrl": "michael_madsen",
+          "Role": "Mr. Blonde / Vic Vega"
+        },
+        {
+          "Id": 3,
+          "Actor": "Steve Buscemi",
+          "ImageUrl": "steve_buscemi",
+          "Role": "Mr. Pink"
+        },
+        {
+          "Id": 4,
+          "Actor": "Edward Bunker",
+          "ImageUrl": "edward_bunker",
+          "Role": "Mr. Blue"
+        },
+        {
+          "Id": 5,
+          "Actor": "Quentin Tarantino",
+          "ImageUrl": "quentin_tarantino",
+          "Role": "Mr. Brown"
+        },
+        {
+          "Id": 6,
+          "Actor": "Chris Penn",
+          "ImageUrl": "chris_penn",
+          "Role": "Nice Guy Eddie"
+        },
+        {
+          "Id": 7,
+          "Actor": "Lawrence Tierney",
+          "ImageUrl": "lawrence_tierney",
+          "Role": "Joe Cabot"
+        }
+      ],
       "Plot": "Six criminals, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the premeditated rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop.",
       "Ratings": [
         {
@@ -215,6 +598,297 @@
         {
           "Source": "Metacritic",
           "Value": "79/100"
+        }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "Because you're a faggot, alright?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "No way, no way. Tried it once, it doesn't work. You get four guys all fighting over who's gonna be Mr. Black, but they don't know each other, so nobody wants to back down. No way. I pick.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "There's two ways you can go on this job: my way or the highway.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+
+          "Quote": "Toby... Who the fuck is Toby? Toby…",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "You don't need proof when you have instinct!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "All right ramblers, let's get rambling!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Joe Cabot",
+          "ImageUrl": "joe_cabot",
+          "Quote": "Only one thing to do in that case: shit in yer pants an' dive in and swim!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Brown",
+          "ImageUrl": "mr_brown",
+          "Quote": "Yeah, but Mr. Brown, that's a little too close to Mr. Shit.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Brown",
+          "ImageUrl": "mr_brown",
+          "Quote": "Let me tell you what 'Like a Virgin' is about. It's all about a girl who digs a guy with a big dick. The entire song. It's a metaphor for big dicks.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Brown",
+          "ImageUrl": "mr_brown",
+          "Quote": "Whoa, whoa, whoa, whoa, whoa... Time out Green Bay. Tell that fucking bullshit to the tourists.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Brown",
+          "ImageUrl": "mr_brown",
+          "Quote": "Lemme tell you what 'Like a Virgin' is about. It's all about this cooze who's a regular fuck machine, I'm talking morning, day, night, afternoon, dick, dick, dick, dick, dick, dick, dick, dick, dick.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Brown",
+          "ImageUrl": "mr_brown",
+          "Quote": "I mean this cat is like Charles Bronson in the 'Great Escape', he's digging tunnels.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "I don't even know a fucking Jew who'd have the balls to say that.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "Alright, first things fuckin' last!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "LARRY, STOP POINTING THAT FUCKIN' GUN AT MY DAD!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "So, Mr. Orange, you're tellin' me this very good friend of mine, who did four years for my father, who in four years never made a deal, no matter what they dangled in front of him, you're telling me that now, that now this man is free, and we're making good on our commitment to him, he's just gonna decide, out of the fucking blue, to rip us off? Why don't you tell me what really happened?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "If you fucking beat this prick long enough, he'll tell you he started the goddamn Chicago fire, now that don't necessarily make it fucking so!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "Nobody did! You assholes turn the jewelry store into a wild west show, and you wonder why the cops show up?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "How would you feel if every time you had to take a piss you had to do a fuckin' hand stand?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Nice Guy Eddie",
+          "ImageUrl": "nice_guy_eddie",
+          "Quote": "Do I sound like I'm joking? He's fuckin' driving around with a cop in his trunk!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I don't tip because society says I have to. All right, if someone deserves a tip, if they really put forth an effort, I'll give them something a little something extra. But this tipping automatically, it's for the birds. As far as I'm concerned, they're just doing their job.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I don't tip because society says I have to. All right, if someone deserves a tip, if they really put forth an effort, I'll give them something a little something extra. But this tipping automatically, it's for the birds. As far as I'm concerned, they're just doing their job.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Somebody's stickin' a red hot poker up our asses and I wanna know who's name's on the handle.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I don't wanna kill anybody. But if I gotta get out that door, and you're standing in my way, one way or the other, you're gettin' outta my way.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Do you even doubt it, man? I don't THINK we got set up, I KNOW we got set up! I mean, really, seriously, where did all those cops come from, huh? One minute they're not there, the next minute they're there? I didn't hear any sirens.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "In one minute there were seventeen blue boys out there. All loaded for bear, all knowing exactly what the fuck they were doing, and they were all just there!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I can say I definitely didn't do it because I know what I did or didn't do. But I cannot definitely say that about anybody else, 'cause I don't definitely know.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Fuck you, White! I didn't create the situation, I'm just dealin' with it! You're acting like a first year fucking thief- I'm acting like a professional!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "You, buddy, are stuck in a situation YOU created. So, if you wanna throw bad looks somewhere, throw 'em at a mirror!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Do you know what this is? It's the world's smallest violin playing just for the waitresses.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Come on, guys! Nobody wants this! We're supposed to be fucking professionals!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I don't believe this shit. Both of you guys got ten years on me and I'm the only one acting like a professional.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Yeah, \"Mr. Pink\" sounds like \"Mr. Pussy\". Tell you what, let me be Mr. Purple. That sounds good to me. I'm Mr. Purple.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "I mean everybody panics, everybody, things get tense, it's human nature to panic, I don't care what you name it you just can't help it.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Pink",
+          "ImageUrl": "mr_pink",
+          "Quote": "Was that a fucking set up or what?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Blue",
+          "ImageUrl": "mr_blue",
+          "Quote": "What's special? Take you in the back and suck your dick?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. White",
+          "ImageUrl": "mr_white",
+          "Quote": "Shit... You shoot me in a dream, you better wake up and apologize.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. White",
+          "ImageUrl": "mr_white",
+          "Quote": "If you shoot this man, you die next. Repeat. If you shoot this man, you die next.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. White",
+          "ImageUrl": "mr_white",
+          "Quote": "Toby? Toby Wong. Toby Wong? Toby Wong. Toby Chung? Fucking Charlie Chan. I got Madonna's big dick coming out of my left ear, and Toby the Jap... I don't know what - comin' out of my right.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. White",
+          "ImageUrl": "mr_white",
+          "Quote": "Piss on this fucking turd! We're outta here.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. White",
+          "ImageUrl": "mr_white",
+          "Quote": "The choice between doing ten years and taking out some stupid motherfucker, ain't no choice at all. But I ain't no madman.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "Listen kid, I'm not gonna bullshit you, all right? I don't give a good fuck what you know, or don't know, but I'm gonna torture you anyway, regardless. Not to get information. It's amusing, to me, to torture a cop. You can say anything you want cause I've heard it all before. All you can do is pray for a quick death, which you ain't gonna get.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "Are you gonna bark all day little doggie? Or are you gonna bite?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "I told 'em not to touch the alarm... but they touched it. If they hadn't done what I told 'em not to do, they'd still be alive.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "Torture you? That's a good idea. I like that.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "Guess what, I think I'm parked in the red-zone!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Blonde",
+          "ImageUrl": "mr_blonde",
+          "Quote": "You kids shouldn't play so rough. Somebody's gonna start cryin'.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Mr. Orange",
+          "ImageUrl": "mr_orange",
+          "Quote": "FUCK YOU! FUCK YOU! I'M FUCKIN' DYING HERE! I'M FUCKIN' DYING!",
+          "IsProfanity": true
         }
       ]
     }

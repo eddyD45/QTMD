@@ -1,4 +1,6 @@
 import { RatingModel } from './rating.model';
+import { CastModel } from './cast.model';
+import { QuoteModel } from './quote.model';
 
 export interface MovieModel {
   Title: string;
@@ -7,7 +9,8 @@ export interface MovieModel {
   ReleaseDate: string;
   Runtime: string;
   Genre: string;
-  Actors: string;
+  Cast: Array<CastModel>;
   Plot: string;
   Ratings: Array<RatingModel>;
+  Quotes: Array<QuoteModel>;
 }
