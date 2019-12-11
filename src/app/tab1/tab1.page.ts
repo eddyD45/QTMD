@@ -19,9 +19,7 @@ export class Tab1Page implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    this.movies$ = this.movieService
-      .getMovieInfo()
-      .pipe(tap(val => console.log(val)));
+    this.movies$ = this.movieService.getMovieInfo();
   }
 
   public onClickVisitMoviePage(url: string): void {

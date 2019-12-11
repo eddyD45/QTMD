@@ -6,41 +6,48 @@
     <ion-title>Quote Generator</ion-title>
   </ion-toolbar>
 </ion-header>
-<ion-content color="warning">
+<ion-content color="primary" *ngIf="movies$ | async as movies">
   <ion-row>
     <ion-col size="12" class="ion-align-items-center">
       <h1 style="color: black">Choose your favorite movies</h1>
     </ion-col>
 
-    <ion-col size="12">
+    <ion-col size="12" *ngFor="let movie of movies">
       <ion-item color="dark">
-        <ion-label>Test</ion-label>
-        <ion-checkbox slot="start"></ion-checkbox>
+        <ion-label>{{movie.Title}}</ion-label>
+        <ion-checkbox
+          slot="start"
+          (ionChange)="updateMovieList($event, movie.Title)"
+        ></ion-checkbox>
       </ion-item>
     </ion-col>
-    <ion-col size="12">
-      <ion-item color="dark">
-        <ion-label>Test</ion-label>
-        <ion-checkbox slot="start"></ion-checkbox>
-      </ion-item>
-    </ion-col>
-    <ion-col size="12">
-      <ion-item color="dark">
-        <ion-label>Test</ion-label>
-        <ion-checkbox slot="start"></ion-checkbox>
-      </ion-item>
-    </ion-col>
-    <ion-col size="12">
-      <ion-item color="dark">
-        <ion-label>Test</ion-label>
-        <ion-checkbox slot="start"></ion-checkbox>
-      </ion-item>
-    </ion-col>
-    <ion-col size="12">
-      <ion-item color="dark">
-        <ion-label>Test</ion-label>
-        <ion-checkbox slot="start"></ion-checkbox>
-      </ion-item>
+
+    <ng-container *ngIf="quote">
+      <ion-col size="12">
+        <ion-avatar>
+          <img
+            src="../../../assets/images/{{ movieQuoted.Url }}/{{
+                    quote.ImageUrl
+                  }}.jpg"
+            [alt]="quote.Speaker"
+          />
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="12">
+        <i>{{ quote.Quote }}</i>
+      </ion-col>
+      <ion-col size="12">
+        <p>- {{ quote.Speaker }}</p>
+      </ion-col>
+    </ng-container>
+    <ion-col size="12" class="ion-align-items-center">
+      <ion-button
+        color="secondary"
+        expand="block"
+        (click)="generateQuote(movies)"
+        [disabled]="chosenMovies.length === 0"
+        >Generate Quote</ion-button
+      >
     </ion-col>
   </ion-row>
 </ion-content>

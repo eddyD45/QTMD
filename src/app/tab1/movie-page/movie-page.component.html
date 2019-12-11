@@ -6,16 +6,84 @@
     <ion-title>Movie Information</ion-title>
   </ion-toolbar>
 </ion-header>
-<ion-content color="warning">
+<ion-content color="primary">
   <div *ngIf="movie$ | async as movie" style="color:black;">
-    {{ movie | json }}
+    <!--    {{ movie | json }}-->
     <ion-grid>
       <ion-row>
+        <ion-row class="ion-align-items-center">
+          <ion-col size="6">
+            <img
+              class="poster-img"
+              src="../../../assets/images/posters/{{ movieUrl }}.jpg"
+              [alt]="movie.Title"
+            />
+          </ion-col>
+          <ion-col>
+            <div class="movie-title">
+              <p>{{ movie.Title }}</p>
+              <p class="subtitle">({{ movie.Year }})</p>
+            </div>
+            <p>{{ movie.Genre }}</p>
+            <p>{{ movie.Runtime }}</p>
+          </ion-col>
+        </ion-row>
+        <ion-col size="4">
+          <img src="../../../assets/icon/rotten_tomatoes.png" alt="" />
+          {{ getRatingFromSource(movie.Ratings, 'Rotten Tomatoes') }}
+        </ion-col>
+        <ion-col size="4">
+          <img src="../../../assets/icon/imdb.png" alt="" />
+          {{ getRatingFromSource(movie.Ratings, 'Internet Movie Database') }}
+        </ion-col>
+        <ion-col size="4">
+          <img src="../../../assets/icon/metacritic.png" alt="" />
+          {{ getRatingFromSource(movie.Ratings, 'Metacritic') }}
+        </ion-col>
         <ion-col size="12">
-          <h1>Plot</h1>
           <p>{{ movie.Plot }}</p>
         </ion-col>
         <ion-col size="12">
+          <h1>Cast</h1>
+          <ion-item *ngFor="let castMember of movie.Cast" color="primary">
+            <ion-avatar slot="start">
+              <img
+                src="../../../assets/images/actors/{{
+                  castMember.ImageUrl
+                }}.jpg"
+                [alt]="castMember.Actor"
+              />
+            </ion-avatar>
+            <ion-label>
+              <h2>{{ castMember.Actor }}</h2>
+              <h3>{{ castMember.Role }}</h3>
+            </ion-label>
+          </ion-item>
+        </ion-col>
+
+        <ion-row class="ion-justify-content-center">
+          <ng-container *ngFor="let quote of get3RandomQuotes(movie.Quotes)">
+            <ion-col size="12">
+              <ion-avatar>
+                <img
+                  src="../../../assets/images/{{ movie.Url }}/{{
+                    quote.ImageUrl
+                  }}.jpg"
+                  [alt]="quote.Speaker"
+                />
+              </ion-avatar>
+            </ion-col>
+            <ion-col size="12">
+              <i>{{ quote.Quote }}</i>
+            </ion-col>
+            <ion-col size="12">
+              <p>- {{ quote.Speaker }}</p>
+            </ion-col>
+          </ng-container>
+        </ion-row>
+
+        <ion-col size="12">
+          <h1>Playlist</h1>
           <iframe
             width="100%"
             height="250px"

@@ -4,14 +4,14 @@
     <ion-title>Movie List</ion-title>
   </ion-toolbar>
 </ion-header>
-<ion-content color="warning">
+<ion-content color="primary">
   <ion-grid>
     <ion-row>
       <ng-container *ngIf="movies$ | async as movies">
         <ion-col size="6" size-sm *ngFor="let movie of movies">
           <ion-card (click)="onClickVisitMoviePage(movie.Url)">
             <img
-              src="../../assets/images/{{movie.Url}}.jpg"
+              src="../../assets/images/posters/{{movie.Url}}.jpg"
               [alt]="movie.Title"
             />
             <div class="movie-title">

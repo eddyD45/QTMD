@@ -8,7 +8,38 @@
       "ReleaseDate": "July 26, 2019",
       "Runtime": "161 min",
       "Genre": "Comedy, Drama",
-      "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Leonardo DiCaprio",
+          "ImageUrl": "leonardo_dicaprio",
+          "Role": "Rick Dalton"
+        },
+        {
+          "Id": 1,
+          "Actor": "Brad Pitt",
+          "ImageUrl": "brad_pitt",
+          "Role": "Cliff Booth"
+        },
+        {
+          "Id": 2,
+          "Actor": "Margot Robbie",
+          "ImageUrl": "margot_robbie",
+          "Role": "Sharon Tate"
+        },
+        {
+          "Id": 3,
+          "Actor": "Emile Hirsch",
+          "ImageUrl": "emile_hirsch",
+          "Role": "Jay Serbing"
+        },
+        {
+          "Id": 4,
+          "Actor": "Margaret Qualley",
+          "ImageUrl": "margaret_qualley",
+          "Role": "Pussycat"
+        }
+      ],
       "Plot": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
       "Ratings": [
         {
@@ -23,6 +54,98 @@
           "Source": "Metacritic",
           "Value": "83/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Well, the fucking hippies aren't.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Actors are required to do a lot of dangerous stuff. Cliff here is meant to help carry the load.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Anybody order fried sauerkraut?!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Hey, you could do anything you want to him. Throw him off a building, right? Light him on fire. Hit him with a Lincoln! Right? Get creative!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "It's official old buddy, I'm a has been.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Here I am, flat on my ass, and who do I got living next door to me?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "In this town, it can all change like that.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Rick Dalton",
+          "ImageUrl": "rick_dalton",
+          "Quote": "Can we just cut? Can we just cut?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bruce Lee",
+          "ImageUrl": "bruce_lee",
+          "Quote": "My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bruce Lee",
+          "ImageUrl": "bruce_lee",
+          "Quote": "You know, you're kind of pretty for a stuntman.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Cliff Booth",
+          "ImageUrl": "cliff_booth",
+          "Quote": "Anybody accidentally kills anybody in a fight, they go to jail. It's called manslaughter.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Cliff Booth",
+          "ImageUrl": "cliff_booth",
+          "Quote": "You are real, right?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Cliff Booth",
+          "ImageUrl": "cliff_booth",
+          "Quote": "If something were to happen to my boss's car, well, I'd get in trouble. Lucky for you, he's got a spare. Fix it.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Cliff Booth",
+          "ImageUrl": "cliff_booth",
+          "Quote": "Hey! You're Rick fucking Dalton, don't you forget it.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Cliff Booth",
+          "ImageUrl": "cliff_booth",
+          "Quote": "Anybody accidentally kills anybody in a fight, they go to jail. It's called manslaughter.",
+          "IsProfanity": false
+        }
       ]
     },
     {
@@ -34,7 +157,50 @@
       "Released": "December 30, 2015",
       "Runtime": "168 min",
       "Genre": "Crime, Drama, Mystery, Thriller, Western",
-      "Actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Samuel L. Jackson",
+          "ImageUrl": "samuel_jackson",
+          "Role": "Major Marquis Warren"
+        },
+        {
+          "Id": 1,
+          "Actor": "Kurt Russel",
+          "ImageUrl": "kurt_russel",
+          "Role": "John Ruth"
+        },
+        {
+          "Id": 2,
+          "Actor": "Jennifer Jason Leigh",
+          "ImageUrl": "jennifer_jason_leigh",
+          "Role": "Daisy Domergue"
+        },
+        {
+          "Id": 2,
+          "Actor": "Demián Bichir",
+          "ImageUrl": "demian_bichir",
+          "Role": "Bob"
+        },
+        {
+          "Id": 3,
+          "Actor": "Tim Roth",
+          "ImageUrl": "tim_roth",
+          "Role": "Oswaldo Mobray"
+        },
+        {
+          "Id": 4,
+          "Actor": "Michael Madsen",
+          "ImageUrl": "michael_madsen",
+          "Role": "Joe Gage"
+        },
+        {
+          "Id": 5,
+          "Actor": "Walton Goggins",
+          "ImageUrl": "walton_goggins",
+          "Role": "Chris Mannix"
+        }
+      ],
       "Plot": "Some time after the Civil War, a stagecoach hurtles through the wintry Wyoming landscape. Bounty hunter John Ruth and his fugitive captive Daisy Domergue race towards the town of Red Rock, where Ruth will bring Daisy to justice. Along the road, they encounter Major Marquis Warren (an infamous bounty hunter) and Chris Mannix (a man who claims to be Red Rock's new sheriff). Lost in a blizzard, the bunch seeks refuge at Minnie's Haberdashery. When they arrive they are greeted by unfamiliar faces: Bob, who claims to be taking care of the place while Minnie is gone; Oswaldo Mobray, the hangman of Red Rock; Joe Gage, a cow puncher; and confederate general Sanford Smithers. As the storm overtakes the mountainside, the eight travelers come to learn that they might not make it to Red Rock after all...",
       "Ratings": [
         {
@@ -49,6 +215,146 @@
           "Source": "Metacritic",
           "Value": "68/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "You believe in Jesus now, huh bitch? Well good. 'Cause you 'bout to meet him.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "Y'all keep your mouth shut and do what I tell ya'. Anybody opens their mouth, gonna get a bullet. Anybody moves a little weird....little sudden--gonna get a bullet. Not a warning. Not a question; a bullet. Let me hear you say, 'I got it'.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "You're gonna make a deal.....with this diabolical bitch?!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "Well, you better shit another pistol out your ass! 'Cause if you don't throw one out here in the next two seconds; we gon' kill this bitch!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "How d'you like THAT, you bushwackin' castrator!?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "Well, shit. Now that I blowed his face off... Marco ain't worth a pesso!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Marquis Warren",
+          "ImageUrl": "marquis_warren",
+          "Quote": "Got room...for one more?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "Keeping you at a disadvantage is an advantage I intend to keep.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "Yeah, Warren, that's the problem with old men. You can kick 'em down the stairs, and say it's an accident, but you can't just shoot 'em.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "Yeah. You come back with anything else but a guitar, my pistol plays a tune; Domergue's Death March. You got it?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "You only need to hang mean bastards, but Mean Bastards, you-need-to-hang!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "Now Daisy, I want us to work out a... signal system of communication. When I elbow you real hard in the face; that means SHUT UP!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "Our best bet is this duplicitous fella ain't as cool a customer as Daisy here. He won't have the leather patience it takes to just sit here and wait. If he can't handle it, he'll stop waiting. He'll try and create his opportunity.. And that's when Mr.Jumpy reveals hisself!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "John Ruth",
+          "ImageUrl": "john_ruth",
+          "Quote": "This here is Daisy Domergue. She's wanted dead or alive for murder, so when that sun comes out, I'm taking this woman to hell!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Chris Mannix",
+          "ImageUrl": "chris_mannix",
+          "Quote": "Like I said, friend, you got me at a bit of a disadvantage!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Chris Mannix",
+          "ImageUrl": "chris_mannix",
+          "Quote": "Well, ain't love grand? Y'all wanna lie on the ground and make snow angels together?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Chris Mannix",
+          "ImageUrl": "chris_mannix",
+          "Quote": "Well cut my legs off and call me Shorty!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Chris Mannix",
+          "ImageUrl": "chris_mannix",
+          "Quote": "Y'all having a bounty hunter picnic?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Daisy Domergue",
+          "ImageUrl": "daisy_domergue",
+          "Quote": "When you get to hell, tell them Daisy sent you.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Daisy Domergue",
+          "ImageUrl": "daisy_domergue",
+          "Quote": "What do I got to say? About John Ruth's ravings? He's ABSOLUTELY right! Me and one of them fellas is in cahoots! And we're just waitin' for everybody to go to sleep; that's when we gonna kill y'all.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "O.B. Jackson",
+          "ImageUrl": "ob_jackson",
+          "Quote": "Jesus Christ! That door's a whore!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Oswaldo Mobray",
+          "ImageUrl": "oswaldo_mobray",
+          "Quote": "Kick it in! Kick it in!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Oswaldo Mobray",
+          "ImageUrl": "oswaldo_mobray",
+          "Quote": "If you're found guilty, the poeple of Red Rock will hang you in the Town Square. And as the Hang Man, I will perform the execution. And, if all those things end up taking place, that's what civilized society calls 'Justice'. , However, if the relatives, and the loved ones of the person you murdered were outside that door right now, and after BUSTING down that door....they drag you out into the snow and hang you up by the neck, that would be Frontier Justice. To me it doesn't matter what you did. When I hang you I'll get no satisfaction from your death. It's my job. I hang you in Red Rock, I move on to the next town..I hang someone else there.",
+          "IsProfanity": false
+        }
       ]
     },
     {
@@ -60,7 +366,38 @@
       "Released": "December 25, 2012",
       "Runtime": "165 min",
       "Genre": "Drama, Western",
-      "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Jamie Foxx",
+          "ImageUrl": "jamie_foxx",
+          "Role": "Django"
+        },
+        {
+          "Id": 1,
+          "Actor": "Christoph Waltz",
+          "ImageUrl": "christoph_waltz",
+          "Role": "Dr. King Schultz"
+        },
+        {
+          "Id": 2,
+          "Actor": "Leonardo DiCaprio",
+          "ImageUrl": "leonardo_dicaprio",
+          "Role": "Calvin Candie"
+        },
+        {
+          "Id": 3,
+          "Actor": "Kerry Washington",
+          "ImageUrl": "kerry_washington",
+          "Role": "Broomhilda von Shaft"
+        },
+        {
+          "Id": 3,
+          "Actor": "Samuel L. Jackson",
+          "ImageUrl": "samuel_jackson",
+          "Role": "Stephen"
+        }
+      ],
       "Plot": "A German dentist buys the freedom of a slave and trains him with the intent to make him his deputy bounty hunter. Instead, he is led to the site of the slave's wife who belongs to a ruthless plantation owner.",
       "Ratings": [
         {
@@ -75,6 +412,290 @@
           "Source": "Metacritic",
           "Value": "81/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "D'Artagnan, motherfuckers!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "I like the way you die boy.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Kill white people and get paid for it? What's not to like?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Not while I have my freedom. Not while I have my gun.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "I'm positive he dead.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Django. The D Is Silent.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "You got yourself a deal mate!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Now, all you black folks, I suggest you get away from all these white folks! Not you, Stephen. You're right where you belong.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "The D is silent, hillbilly.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "I'm curious what makes you so curious.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "You gonna have to keep up, ya know?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Goodbye, Miss Laura!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Django. D-J-A-N-G-O. The D's silent.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "I count two guns, nigga.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "Hey lil' trouble maker.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Django",
+          "ImageUrl": "django",
+          "Quote": "You said to get dirty, I'm getting dirty.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Sold! To the man with the exceptional beard and his unexceptional nigga!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Where is my beautiful sister?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Broomhilda is my property. And I can choose to do with my property, whatever I so desire.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Gentlemen, you had my curiosity, but now you have my attention.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Hey! You lay your palms flat on that tabletop! If you lift those palms off of that turtleshell tabletop, Mr. Pooch is gonna let loose through both ends of that sawed-off! There have been a lot of lies said around this dinner table here tonight, but that you can believe!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "I've heard tell about you. I heard you been telling everybody them mandingos ain't no damn good, ain't nothing nobody is selling is worth buying - I'm curious. What makes you such a mandingo expert?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "You sir are a sore loser.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "I've been surrounded my entire life by black faces. I only have one question: Why don't they just rise up and kill the whites?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Calvin Candie",
+          "ImageUrl": "calvin_candie",
+          "Quote": "Oh we weren't talking business yet, we were discussing my curiosity.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Hello, you poor devils!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "I can see all the passions you inspire are completely justified.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Actually, I was thinking of that poor devil you fed to the dogs today, D'Artagnan. And I was wondering what Dumas would make of all this.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Alexandre Dumas is black.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Everybody calm down. I'm simply a customer trying to conduct a transaction.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "My dear sir, I am simply trying to ascertain...",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Our mutual friend has a flair for the dramatic.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "You silver tongued devil, you.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Sorry, I couldn't resist.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Good, cold evening gentlemen.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "I'm Dr. King Schultz, and this is my horse, Fritz.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Calm yourselves gentlemen, I mean you no harm. I'm simply a fellow weary traveler.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Normally, Monsieur Candie, I would say \"Auf Wiedersehen.\" But since what \"Auf Wiedersehen\" actually means is \"'until I see you again\" and since I never wish to see you again, to you sir, I say goodbye.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "[in disbelief] Let me get this straight: Your slave wife speaks German and her name is Broomhilda von Shaft?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Alexander Dumas. He wrote \"The Three Musketeers.\" I figured you must be an admirer. You named your slave after his novel's lead character. If Alexander Dumas had been there today, I wonder what he would have made of it?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "My name is Dr. King Schultz, and like yourself, Marshall, I am a servant of the court. The man lying dead in the dirt, who the good people of Daughtrey saw fit to elect as their sheriff, who went by the name of Bill Sharp, is actually a wanted outlaw by the name of Willard Peck, with a price on his head of 200 dollars. Now, that's 200 dollars, dead or alive.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "I'm aware this is probably disconcerting news. But I'm willing to wager this man was elected sheriff sometime in the last 2 years. I know this because 3 years ago, he was rustling cattle from the B.C. Corrigan Cattle Company of Lubbock, Texas. Now this is a warrant, made out by circuit court Judge Henry Allen Laudermilk of Austin Texas. You're encouraged to wire him. He'll back up who I am, and who your dear departed sheriff was. In other words Marshall, you owe me 200 dollars.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Now you can get the Marshall...",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Inn keeper! Remember, get the sheriff, not the Marshall.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Now as to you poor devils…So as I see it, when it comes to the subject of what to do next, you gentlemen have two choices. One: once I'm gone, you could lift that beast off the remaining Speck, then carry him to the nearest town. Which would be at least 37 miles back the way you came. Or Two: You could unshackle yourselves… take that rifle, put a bullet in his head, bury the two of them deep, and then make your way to a more enlightened area of this country. The choice is yours. Oh, and on the off chance there are any astronomy aficionados amongst you, the North Star is that one. Tata.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "It's a German story. There's always a mountain.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Dr. King Schultz",
+          "ImageUrl": "king_schultz",
+          "Quote": "Inn keeper! Remember, get the sheriff, not the Marshall.",
+          "IsProfanity": false
+        }
       ]
     },
     {
@@ -86,6 +707,38 @@
       "Runtime": "153 min",
       "Genre": "Adventure, Drama, War",
       "Actors": "Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Brad Pitt",
+          "ImageUrl": "brad_pitt",
+          "Role": "Lt. Aldo Raine"
+        },
+        {
+          "Id": 1,
+          "Actor": "Mélanie Laurent",
+          "ImageUrl": "melanie_laurent",
+          "Role": "Shosanna"
+        },
+        {
+          "Id": 2,
+          "Actor": "Christoph Waltz",
+          "ImageUrl": "christoph_waltz",
+          "Role": "Col. Hans Landa"
+        },
+        {
+          "Id": 3,
+          "Actor": "Eli Roth",
+          "ImageUrl": "eli_roth",
+          "Role": "Sgt. Donny Donowitz"
+        },
+        {
+          "Id": 4,
+          "Actor": "Michael Fassbender",
+          "ImageUrl": "michael_fassbender",
+          "Role": "Lt. Archie Hicox"
+        }
+      ],
       "Plot": "In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the \"Basterds\", a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history.",
       "Ratings": [
         {
@@ -100,6 +753,182 @@
           "Source": "Metacritic",
           "Value": "69/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "My name is Lt. Aldo Raine and I'm putting together a special team, and I need me eight soldiers. Eight Jewish-American soldiers.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "We're gonna be dropped into France, dressed as civilians. And once we're in enemy territory, as a bushwhackin' guerrilla army, we're gonna be doin' one thing and one thing only... killin' Nazis.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "Now, I don't know about y'all, but I sure as hell didn't come down from the goddamn Smoky Mountains, cross five thousand miles of water, fight my way through half of Sicily and jump out of a fuckin' air-o-plane to teach the Nazis lessons in humanity. Nazi ain't got no humanity. They're the foot soldiers of a Jew-hatin', mass murderin' maniac and they need to be dee-stroyed. That's why any and every son of a bitch we find wearin' a Nazi uniform, they're gonna die. ",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "We will be cruel to the Germans, and through our cruelty they will know who we are. And they will find the evidence of our cruelty in the disemboweled, dismembered, and disfigured bodies of their brothers we leave behind us. And the German won't not be able to help themselves but to imagine the cruelty their brothers endured at our hands, and our boot heels, and the edge of our knives. And the German will be sickened by us, and the German will talk about us, and the German will fear us. And when the German closes their eyes at night and they're tortured by their subconscious for the evil they have done, it will be with thoughts of us they are tortured with. Sound good?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "But I got a word of warning for all you would-be warriors. When you join my command, you take on debit. A debit you owe me personally. Each and every man under my command owes me one hundred Nazi scalps. And I want my scalps. And all y'all will git me one hundred Nazi scalps, taken from the heads of one hundred dead Nazis. Or you will die tryin'.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "You know, fightin' in a basement offers a lot of difficulties. Number one being, you're fightin' in a basement!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "Now, take your wiener schnitzel lickin' finger and point out on this map what I want to know.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "Actually, Werner, we're all tickled to hear you say that. Quite frankly, watchin' Donny beat Nazis to death is the closest we ever get to goin' to the movies. Donny!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "We got a German here who wants to die for his country! Oblige him!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "You probably heard we ain't in the prisoner-takin' business; we in the killin' Nazi business. And cousin, business is a-boomin'.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "You know how you get to Carnegie Hall, don't ya? Practice.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "... I think you show great talent. And I pride myself on having an eye for that kind of talent. But your status as a Nazi killer is still amateur. We all come here to see if you wanna go pro.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "Well, you don't got to be Stonewall Jackson to know you don't want to fight in a basement!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Aldo Raine",
+          "ImageUrl": "aldo_raine",
+          "Quote": "You see, we like our Nazis in uniform. That way we can spot 'em just like that. But you take off that uniform, ain't no one ever gonna know you were a Nazi. And that don't sit well with us. So, I'm gonna give you a little something you can't take off.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Archie Hicox",
+          "ImageUrl": "archie_hicox",
+          "Quote": "Well, if this is it, old boy, I hope you don't mind if I go out speaking the King's.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Lt. Archie Hicox",
+          "ImageUrl": "archie_hicox",
+          "Quote": "There's a special rung in hell reserved for people who waste good scotch. Seeing as how I may be rapping on the door momentarily…",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Sgt. Hugo Stiglitz",
+          "ImageUrl": "hugo_stiglitz",
+          "Quote": "Say \"Auf Wiedersehen\" to your Nazi balls!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "Oooh, that's a bingo!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "The feature that makes me such an effective hunter of the Jews is, as opposed to most German soldiers, I can think like a Jew, where they can only think like a German... more precisely, German soldier. Now, if one were to determine what attribute the German people share with a beast, it would be the cunning and the predatory instinct of a hawk. But if one were to determine what attributes the Jews share with a beast, it would be that of the rat. The Führer and Goebbels's propaganda have said pretty much the same thing, but where our conclusions differ is I don't consider the comparison an insult.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "Consequently, a German soldier conducts a search of a house suspected of hiding Jews. Where does the hawk look? He looks in the barn, he looks in the attic, he looks in the cellar, he looks everywhere he would hide. But there's so many places it would never occur to a hawk to hide. However, the reason the Führer has brought me off my Alps in Austria and placed me in French cow country today is because it does occur to me. Because I'm aware what tremendous feats human beings are capable of once they abandon dignity.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "AU REVOIR, SHOSANNA!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "Sitting in your chair, I would probably say the same thing. And 999 point 999 times out of a million, you would be correct. But in the pages of history, every once in a while, fate reaches out and extends its hand.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "What shall the history books read?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "So, gentlemen, let's discuss the prospect of ending the war tonight.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "Gentlemen, I have no intention of killing Hitler and killing Goebbels and killing Göring and killing Bormann, not to mention winning the war single-handedly for the Allies, only later to find myself standing before a Jewish tribunal. If you want to win the war, tonight; we have to make a deal.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Col. Hans Landa",
+          "ImageUrl": "hans_landa",
+          "Quote": "What's that American expression? \"If the shoe fits, you must wear it.\"",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Sgt. Donny Donowitz",
+          "ImageUrl": "donny_donowitz",
+          "Quote": "Teddy fuckin' Williams knocks it out of the park! Fenway Park on its feet for Teddy fuckin' Ballgame! He went yardo on that one, out to fuckin' Lansdowne Street!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Sgt. Donny Donowitz",
+          "ImageUrl": "donny_donowitz",
+          "Quote": "Fuck a duck!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Adolf Hitler",
+          "ImageUrl": "adolf_hitler",
+          "Quote": "NEIN, NEIN, NEIN, NEIN, NEIN, NEIN!",
+          "IsProfanity": true
+        }
       ]
     },
     {
@@ -111,6 +940,38 @@
       "Runtime": "137 min",
       "Genre": "Action, Crime, Thriller",
       "Actors": "Uma Thurman, Vivica A. Fox, Ambrosia Kelley, Michael Parks, James Parks",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Uma Thurman",
+          "ImageUrl": "uma_thurman",
+          "Role": "The Bride"
+        },
+        {
+          "Id": 1,
+          "Actor": "Vivica A. Fox",
+          "ImageUrl": "vivica_fox",
+          "Role": "Vernita Green"
+        },
+        {
+          "Id": 2,
+          "Actor": "Daryl Hannah",
+          "ImageUrl": "daryl_hannah",
+          "Role": "Elle Driver"
+        },
+        {
+          "Id": 3,
+          "Actor": "Michael Madsen",
+          "ImageUrl": "michael_madsen",
+          "Role": "Budd"
+        },
+        {
+          "Id": 4,
+          "Actor": "David Carradine",
+          "ImageUrl": "david_carradine",
+          "Role": "Bill"
+        }
+      ],
       "Plot": "The murderous Bride is back and she is still continuing her vengeance quest against her ex-boss, Bill, and taking aim at Bill's younger brother Budd and Elle Driver, the only survivors from the squad of assassins who betrayed her four years earlier. It's all leading up to the ultimate confrontation with Bill, the Bride's former master and the man who ordered her execution!",
       "Ratings": [
         {
@@ -125,6 +986,116 @@
           "Source": "Metacritic",
           "Value": "83/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "Bitch. You don't have a future.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "My pussy wagon died on me.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "I will kill Bill!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "You promised you'd be nice.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "You and I have unfinished business.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "Well, guess what, bitch? I'm better than Annie Oakley and I've got you right in my sights, so let's talk.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "Clark Kent is Superman's critique on the whole human race.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "No I'm not saying that you're a superhero but I'm saying that you're a killer, a natural born killer.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "No, I said I'd do my best. That's hardly a promise.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "I'm really sorry, Kiddo. But you thought wrong.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "There are consequences to breaking the heart of a murdering bastard.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "I suppose the traditional way to conclude this is, we cross Hanzo swords. Well, it just so happens, this hacienda comes with its very own private beach. And this private beach just so happens to look particularly beautiful bathed in moonlight. And there just so happens to be a full moon out tonight. So, swordfighter, if you want to sword fight, that's where I suggest. But if you wanna be old school about it - and you know I'm all about old school - then we can wait till dawn, and slice each other up at sunrise, like a couple real-life, honest-to-goodness samurais.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Bill",
+          "ImageUrl": "bill",
+          "Quote": "I'm the man.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Elle Driver",
+          "ImageUrl": "elle_driver",
+          "Quote": " You know what I did? I killed that miserable old fool. I poisoned his fishheads. And I told him, \"To me the word of an old fool like you is worth less than nothing.\" That's right, I killed your master. And now I'm going to kill you, with your own sword, no less, which, in the very immediate future, will become my sword.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Elle Driver",
+          "ImageUrl": "elle_driver",
+          "Quote": "Gargantuan. Such a great word. I rarely get to use it in a sentence.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Elle Driver",
+          "ImageUrl": "elle_driver",
+          "Quote": "Now in these last agonizing minutes of life you have left, let me answer the question you asked earlier more thoroughly. Right at this moment, the biggest \"R\" I feel is Regret. Regret that maybe the greatest warrior I have ever known, met her end at the hands of a bushwhackin', scrub, alky piece of shit like you. That woman deserved better.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Budd",
+          "ImageUrl": "budd",
+          "Quote": "That woman deserves her revenge... And we deserve to die. (laughs) But, then again, so does she. So I guess we'll just see...Wont we?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Budd",
+          "ImageUrl": "budd",
+          "Quote": "Wakey wakey, eggs and bakey.",
+          "IsProfanity": true
+        }
       ]
     },
     {
@@ -136,6 +1107,50 @@
       "Runtime": "111 min",
       "Genre": "Action, Crime, Thriller",
       "Actors": "Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Uma Thurman",
+          "ImageUrl": "uma_thurman",
+          "Role": "The Bride"
+        },
+        {
+          "Id": 1,
+          "Actor": "Lucy Liu",
+          "ImageUrl": "lucy_liu",
+          "Role": "O-Ren Ishii"
+        },
+        {
+          "Id": 2,
+          "Actor": "Vivica A. Fox",
+          "ImageUrl": "vivica_fox",
+          "Role": "Vernita Green"
+        },
+        {
+          "Id": 3,
+          "Actor": "Daryl Hannah",
+          "ImageUrl": "daryl_hannah",
+          "Role": "Elle Driver"
+        },
+        {
+          "Id": 4,
+          "Actor": "Michael Madsen",
+          "ImageUrl": "michael_madsen",
+          "Role": "Budd"
+        },
+        {
+          "Id": 5,
+          "Actor": "Shin'ichi Chiba",
+          "ImageUrl": "shinichi_chiba",
+          "Role": "Hattori Hanzo"
+        },
+        {
+          "Id": 6,
+          "Actor": "David Carradine",
+          "ImageUrl": "david_carradine",
+          "Role": "Bill"
+        }
+      ],
       "Plot": "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.",
       "Ratings": [
         {
@@ -150,6 +1165,140 @@
           "Source": "Metacritic",
           "Value": "69/100"
         }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "Those of you lucky enough to still have their lives, take them with you! However, leave the limbs you've lost. They belong to me now...except you Sofie! You stay exactly where you are.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "This Pasadena homemaker's name is Jeanne Bell. Her husband is Dr. Lawrence Bell. But back when we were acquainted four years ago, her name was Vernita Green. Her code name was Copperhead. Mine, Black Mamba.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "We have unfinished business.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "I didn't say sell me. I said give me.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "Bitch! You can stop right there. Just because I have no wish to murder you before the eyes of your daughter does not mean that parading her around in front of me is gonna inspire sympathy. You and I have unfinished business and not a God damn fucking thing you've done in the subsequent four years including getting knocked up is gonna change that.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "No, no, no, no... Get even? Even Steven? I would have to kill you, go up to Nikki's room kill her and wait for your husband the good Doctor Bell to come home and kill him. That would be even, Vernita. That would be about square.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "As I said before, I've allowed you to keep your wicked life for two reasons. And the second reason is so you can tell him in person everything that happened here tonight. I want him to witness the extent of my mercy by witnessing your deformed body. I want you to tell him all the information you just told me. I want him to know what I know. I want him to know I want him to know. And I want them all to know they'll all soon be as dead as O-Ren.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "Bitch, you don't have a future.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "The Bride",
+          "ImageUrl": "the_bride",
+          "Quote": "It was not my intention to do this in front of you. For that I'm sorry. But you can take my word for it, your mother had it comin'. When you grow up, if you still feel raw about it, I'll be waiting.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Elle Driver",
+          "ImageUrl": "elle_driver",
+          "Quote": "I might never have liked you. Point of fact, I despise you. But that doesn't suggest I don't respect you. Dying in our sleep is a luxury our kind is rarely afforded. My gift to you.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Elle Driver",
+          "ImageUrl": "elle_driver",
+          "Quote": "Thought that was pretty fuckin' funny didn't you? Word of advice, shithead - don't you ever wake up.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Vernita Green",
+          "ImageUrl": "vernita_green",
+          "Quote": "So I suppose it's a little late for apologies, huh?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Vernita Green",
+          "ImageUrl": "vernita_green",
+          "Quote": "Look bitch... I need to know if you're going to start any more shit around my baby girl.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Vernita Green",
+          "ImageUrl": "vernita_green",
+          "Quote": "Look, I know I fucked you over. I fucked you over bad, I wished to God I hadn't but I did. You have every right to wanna get even.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "O-Ren Ishii",
+          "ImageUrl": "oren_ishii",
+          "Quote": "As your leader, I encourage you from time to time, and always in a respectful manner, to question my logic. If you're unconvinced that a particular plan of action I've decided is the wisest, tell me so, but allow me to convince you and I promise you right here and now, no subject will ever be taboo. Except, of course, the subject that was just under discussion. The price you pay for bringing up either my Chinese or American heritage as a negative is... I collect your fucking head. Just like this fucker here. Now, if any of you sons of bitches got anything else to say, now's the fucking time!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "O-Ren Ishii",
+          "ImageUrl": "oren_ishii",
+          "Quote": "You didn't think it was gonna be that easy, did you?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "O-Ren Ishii",
+          "ImageUrl": "oren_ishii",
+          "Quote": "The price you pay for bringing up either my Chinese or my American heritage as a negative is, I collect your fucking head. Just like this fucker here. Now if any of you sons of bitches got anything else to say, NOW'S THE FUCKING TIME! ...I didn't think so.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "O-Ren Ishii",
+          "ImageUrl": "oren_ishii",
+          "Quote": "Silly Caucasian girl likes to play with samurai swords. You may not be able to fight like a samurai, but you can at least die like a samurai.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Budd",
+          "ImageUrl": "budd",
+          "Quote": "That woman deserves her revenge...and we deserve to die.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Hattori Hanzo",
+          "ImageUrl": "hattori_hanzo",
+          "Quote": "Funny, you like samurai swords... I like baseball.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Hattori Hanzo",
+          "ImageUrl": "hattori_hanzo",
+          "Quote": "You must have big rats if you need Hattori Hanzo's steel.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Hattori Hanzo",
+          "ImageUrl": "hattori_hanzo",
+          "Quote": "I am finished doing what I swore an oath to God 28 years ago to never do again. I've created, \"something that kills people.\" And in that purpose, I was a success. I've done this because, philosophically, I am sympathetic to your aim. I can tell you with no ego, this is my finest sword. If on your journey, you should encounter God, God will be cut.",
+          "IsProfanity": false
+        }
       ]
     },
     {
@@ -160,7 +1309,32 @@
       "Released": "December 25, 1997",
       "Runtime": "154 min",
       "Genre": "Crime, Drama, Thriller",
-      "Actors": "Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda",
+      "Cast": [
+        {
+          "Id": 0,
+          "Actor": "Pam Grier",
+          "ImageUrl": "pam_grier",
+          "Role": "Jackie Brown"
+        },
+        {
+          "Id": 1,
+          "Actor": "Samuel L. Jackson",
+          "ImageUrl": "samuel_jackson",
+          "Role": "Ordell Robbie"
+        },
+        {
+          "Id": 2,
+          "Actor": "Robert Forster",
+          "ImageUrl": "robert_forster",
+          "Role": "Max Cherry"
+        },
+        {
+          "Id": 3,
+          "Actor": "Chris Tucker",
+          "ImageUrl": "chris_tucker",
+          "Role": "Beaumont Livingston"
+        }
+      ],
       "Plot": "The middle-aged stewardess Jackie Brown smuggles money from Mexico to Los Angeles for the arms dealer Ordell Robbie. When she gets caught by the agents Ray Nicolet and Mark Dargus with ten thousand dollars and cocaine in her purse, they propose a deal to her to help them to arrest Ordell in exchange of her freedom. Meanwhile Ordell asks the 56-year-old Max Cherry, who runs a bail bond business, to release Jackie Brown with the intention of eliminating her. Jackie suspects of Ordell's intention and plots a complicated confidence game with Max to steal half a million dollars from Ordell.",
       "Ratings": [
         {
@@ -174,6 +1348,116 @@
         {
           "Source": "Metacritic",
           "Value": "64/100"
+        }
+      ],
+      "Quotes": [
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "You can't trust Melanie, but you can trust Melanie to be Melanie.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "My money's in that office, right? If she start giving me some bullshit about it ain't there, and we got to go someplace else and get it, I'm gonna shoot you in the head, then and there. Then I'm gonna shoot that bitch in the kneecaps, find out where my goddamn money is. She gonna tell me too. Hey, look at me when I'm talking to you, motherfucker. You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "What the fuck happened to you, man? Shit, your ass used to be beautiful!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "Fuck's wrong with you, knockin' on the door like the goddamned police? You lookin' to get shot?",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "You keep fuckin' with me, you the one gonna be asleep. Forever.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "Now that, my friend, is a clear-cut case of him or me. And you best believe it ain't gonna be me.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "Let me give you the reason, motherfucker! The reason is your ass ain't worth a shit no more!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "Goddamn girl, you gettin' high already? It's just 2 o'clock!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "You know you smoke too much of that shit, that shit gonna rob you of your own ambition.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "Oh, ya'll a couple Cheech and Chongs, huh?",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Ordell Robbie",
+          "ImageUrl": "ordell_robbie",
+          "Quote": "My ass may be dumb, but I ain't no dumbass.",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jackie Brown",
+          "ImageUrl": "jackie_brown",
+          "Quote": "Shut your raggedy ass up and sit the fuck down!",
+          "IsProfanity": true
+        },
+        {
+          "Speaker": "Jackie Brown",
+          "ImageUrl": "jackie_brown",
+          "Quote": "Pam is the true diva! She gets better with age just like a fine wine!",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Max Cherry",
+          "ImageUrl": "max_cherry",
+          "Quote": "I'll bet, besides maybe an afro, you look exactly how you did at 29.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Max Cherry",
+          "ImageUrl": "max_cherry",
+          "Quote": "Half a million dollars will always be missed.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Max Cherry",
+          "ImageUrl": "max_cherry",
+          "Quote": "Half a million dollars will always be missed.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Beaumont Livingston",
+          "ImageUrl": "beaumont_livingston",
+          "Quote": "Man, you must be out of your fuckin' mind if you think I'm gonna get in this dirty-ass trunk.",
+          "IsProfanity": false
+        },
+        {
+          "Speaker": "Beaumont Livingston",
+          "ImageUrl": "beaumont_livingston",
+          "Quote": "I ain't ridin' in no trunk for no minute, man.",
+          "IsProfanity": false
         }
       ]
     },

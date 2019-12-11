@@ -5,6 +5,8 @@ import { Observable } from 'rxjs';
 import { MovieModel } from '../../models/movie.model';
 import { map, tap } from 'rxjs/operators';
 import { DomSanitizer } from '@angular/platform-browser';
+import { RatingModel } from '../../models/rating.model';
+import { QuoteModel } from '../../models/quote.model';
 
 @Component({
   selector: 'app-movie-page',
@@ -23,20 +25,32 @@ export class MoviePageComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log(this.movieUrl);
-    this.movie$ = this.movieService.getMovieInfo().pipe(
-      map(
-        movies => movies.find(movie => movie.Url === this.movieUrl)
-        // map((movie: MovieModel) =>
-        //   this.sanitationService.bypassSecurityTrustUrl(
-        //     movie.YouTubePlaylistUrl
-        //   )
-        // )
-      )
-    );
+    this.movie$ = this.movieService
+      .getMovieInfo()
+      .pipe(map(movies => movies.find(movie => movie.Url === this.movieUrl)));
   }
 
   public getSafeUrl(url: string) {
     return this.sanitationService.bypassSecurityTrustResourceUrl(url);
+  }
+
+  public getRatingFromSource(
+    ratings: Array<RatingModel>,
+    source: string
+  ): string {
+    return ratings.find(rating => rating.Source === source).Value;
+  }
+
+  public get3RandomQuotes(quotes: Array<QuoteModel>): Array<QuoteModel> {
+    const arr = [];
+    while (arr.length < 3) {
+      const r = Math.floor(Math.random() * quotes.length);
+      if (arr.indexOf(r) === -1) {
+        arr.push(r);
+      }
+    }
+    return arr.map(randomNumber => {
+      return quotes[randomNumber];
+    });
   }
 }
