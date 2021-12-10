@@ -30,6 +30,6 @@ jobs:
         
     - name: Install Dependencies, build, test
       run: |
-        npm ci
+        npm i
         npm run build
         npm test
